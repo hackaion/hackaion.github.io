@@ -3,3 +3,53 @@
 ---
 @charset "utf-8";
 @import "main";
+
+.icons-home {
+	text-align: center;
+}
+
+.icons-home a {
+	display: inline-block;
+	padding: .938rem;
+	margin: .125rem;
+	border-radius: 50%;
+	border: .125rem solid #fff;
+	line-height: 0;
+	transition: all .7s;
+}
+
+.icons-home a .icon {
+	fill: #fff;
+	width: 18px;
+	height: 18px;
+}
+
+@media only screen and (min-width:37.5rem) {
+	.icons-home a .icon {
+		width: 30px;
+		height: 30px
+	}
+}
+
+.icons-home a:hover {
+	background: #fff;
+}
+
+.icons-home a:hover .icon {
+	fill: #5d4d7a
+}
+
+.down .icon {
+	position: absolute;
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 100px;
+	height: 100px;
+	fill: #fff;
+	-webkit-animation: pulse 1.3s infinite;
+	animation: pulse 1.3s infinite
+}
