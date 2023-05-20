@@ -1,15 +1,15 @@
 # Site settings
 title_left    : "Pete_"
-title_right   : "{madt1m}" # default: ""
+title_right   : "{magipid}" # default: ""
 description   : "My personal share notes on things I happen to love. Enjoy."
-keywords      : "hacking, blog, madt1m, ctf, learning, challenge"
-url           : https://madt1m.github.io/ # site url
+keywords      : "hacking, blog, magipid, ctf, learning, challenge"
+url           : https://magipid.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/intro-etna.jpg" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : "m4dt1m"
-github_username   : "madt1m"
+twitter_username  : "magipid"
+github_username   : "magipid"
 linkedin_public_url : "pietroftirenna"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
