@@ -1,15 +1,15 @@
 # Site settings
-title_left    : "Pete_"
-title_right   : "{hackaion}" # default: ""
+title_left    : "Pietro "
+title_right   : "{tetropirenna}" # default: ""
 description   : "My personal share notes on things I happen to love. Enjoy."
 keywords      : "hacking, blog, hackaion, ctf, learning, challenge"
-url           : https://hackaion.github.io/ # site url
+url           : https://tetropirenna.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/intro-etna.jpg" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : "hackaion"
-github_username   : "hackaion"
+twitter_username  : "tetropirenna"
+github_username   : "tetropirenna"
 linkedin_public_url : "pietroftirenna"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
