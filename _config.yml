@@ -3,7 +3,7 @@ title_left    : "Pietro "
 title_right   : "{madt1m}" # default: ""
 description   : "My personal share notes on things I happen to love. Enjoy."
 keywords      : "hacking, blog, madt1m, ctf, learning, challenge"
-url           : https://madt1m.github.io/ # site url
+url           : https://madt1m.org/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/intro-etna.jpg" # image uri like logo/cover image for site seo
 
