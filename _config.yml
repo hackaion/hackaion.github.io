@@ -1,15 +1,15 @@
 # Site settings
 title_left    : "Pietro "
-title_right   : "{tetropirenna}" # default: ""
+title_right   : "{madt1m}" # default: ""
 description   : "My personal share notes on things I happen to love. Enjoy."
-keywords      : "hacking, blog, hackaion, ctf, learning, challenge"
-url           : https://tetropirenna.github.io/ # site url
+keywords      : "hacking, blog, madt1m, ctf, learning, challenge"
+url           : https://madt1m.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/intro-etna.jpg" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : "tetropirenna"
-github_username   : "tetropirenna"
+twitter_username  : "madt1m_"
+github_username   : "madt1m"
 linkedin_public_url : "pietroftirenna"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
@@ -30,7 +30,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Pietro Tirenna"
+  name     : "Tetro Pirenna"
 
 plugins:
   - jekyll-sitemap
